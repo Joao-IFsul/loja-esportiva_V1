@@ -1,0 +1,1 @@
+{"name":"loja-esportiva","type":"module","scripts":{"start":"node api/index.js"},"dependencies":{"@supabase/supabase-js":"^2.87.1","cors":"^2.8.5","dotenv":"^17.2.3","express":"^4.22.1"}}
